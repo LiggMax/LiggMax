@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LiggMax.iml" filepath="$PROJECT_DIR$/LiggMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LiggMax.iml" filepath="$PROJECT_DIR$/.idea/LiggMax.iml" />
     </modules>
   </component>
 </project>
