@@ -6,7 +6,7 @@
 - 💼 **Interests**: Software development, open source contribution
 - 🌱 **Learning**: Java and related technologies
 
-<div style="display: flex;gap: 5px; margin-bottom: 20px;">
+<div style="display: flex; align-content: center; gap: 2px; margin-bottom: 20px;">
  <div>
     <a href="https://github.com/LiggMax">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiggMax&layout=compact&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" alt="Most Used Languages" />
