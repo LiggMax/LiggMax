@@ -4,4 +4,4 @@
 
 - 🎯 **Current Goal**: Make an effort to learn Java and other programming technologies
 - 💼 **Interests**: Software development, open source contribution
-- 🌱 **Learning**: Java and related technologies
+- 🌱 **Learning**: Java、Dart and related technologies
